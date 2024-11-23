@@ -1,0 +1,16 @@
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\bin\Debug\net8.0-windows\Notifyicon.exe
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\bin\Debug\net8.0-windows\Notifyicon.deps.json
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\bin\Debug\net8.0-windows\Notifyicon.runtimeconfig.json
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\bin\Debug\net8.0-windows\Notifyicon.dll
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\bin\Debug\net8.0-windows\Notifyicon.pdb
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\obj\Debug\net8.0-windows\Notifyicon.Form1.resources
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\obj\Debug\net8.0-windows\Notifyicon.csproj.GenerateResource.cache
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\obj\Debug\net8.0-windows\Notifyicon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\obj\Debug\net8.0-windows\Notifyicon.AssemblyInfoInputs.cache
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\obj\Debug\net8.0-windows\Notifyicon.AssemblyInfo.cs
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\obj\Debug\net8.0-windows\Notifyicon.csproj.CoreCompileInputs.cache
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\obj\Debug\net8.0-windows\Notifyicon.dll
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\obj\Debug\net8.0-windows\refint\Notifyicon.dll
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\obj\Debug\net8.0-windows\Notifyicon.pdb
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\obj\Debug\net8.0-windows\Notifyicon.genruntimeconfig.cache
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\obj\Debug\net8.0-windows\ref\Notifyicon.dll
