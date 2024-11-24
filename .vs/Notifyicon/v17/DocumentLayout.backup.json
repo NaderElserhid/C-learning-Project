@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{3F42D4B3-5E29-4E8E-86A2-1858ACDDBBAD}|Notifyicon.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F42D4B3-5E29-4E8E-86A2-1858ACDDBBAD}|Notifyicon.csproj|c:\\users\\nadir\\onedrive\\desktop\\c#\\.net framword and c# implementtions\\notifyicon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3F42D4B3-5E29-4E8E-86A2-1858ACDDBBAD}|Notifyicon.csproj|C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\.Net framword and C# implementtions\\Notifyicon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3F42D4B3-5E29-4E8E-86A2-1858ACDDBBAD}|Notifyicon.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAmwD8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T13:52:15.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T13:52:15.049Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\.Net framword and C# implementtions\\Notifyicon\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAswDYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAA7wDgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T13:41:47.223Z",
               "EditorCaption": ""
@@ -59,8 +58,7 @@
               "ToolTip": "C:\\Users\\nadir\\OneDrive\\Desktop\\C#\\.Net framword and C# implementtions\\Notifyicon\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T13:40:10.895Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-23T13:40:10.895Z"
             }
           ]
         }

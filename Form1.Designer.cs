@@ -45,6 +45,7 @@
             resetProgressBar = new Button();
             timer1 = new System.Windows.Forms.Timer(components);
             label1 = new Label();
+            checkedListBox1 = new CheckedListBox();
             SuspendLayout();
             // 
             // button1
@@ -145,11 +146,21 @@
             label1.TabIndex = 4;
             label1.Text = "0%";
             // 
+            // checkedListBox1
+            // 
+            checkedListBox1.FormattingEnabled = true;
+            checkedListBox1.Items.AddRange(new object[] { "moon", "sun ", "Earth", "marsa" });
+            checkedListBox1.Location = new Point(98, 173);
+            checkedListBox1.Name = "checkedListBox1";
+            checkedListBox1.Size = new Size(120, 94);
+            checkedListBox1.TabIndex = 5;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(825, 488);
+            Controls.Add(checkedListBox1);
             Controls.Add(label1);
             Controls.Add(resetProgressBar);
             Controls.Add(StartPrograss);
@@ -173,5 +184,6 @@
         private Button resetProgressBar;
         private System.Windows.Forms.Timer timer1;
         private Label label1;
+        private CheckedListBox checkedListBox1;
     }
 }
