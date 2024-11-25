@@ -34,8 +34,9 @@
             TreeNode treeNode2 = new TreeNode("mahmude");
             TreeNode treeNode3 = new TreeNode("Boys", new TreeNode[] { treeNode1, treeNode2 });
             TreeNode treeNode4 = new TreeNode("Nur", 1, -2);
-            TreeNode treeNode5 = new TreeNode("Reem", 1, -2);
-            TreeNode treeNode6 = new TreeNode("Girls", 1, -2, new TreeNode[] { treeNode4, treeNode5 });
+            TreeNode treeNode5 = new TreeNode("Node0");
+            TreeNode treeNode6 = new TreeNode("Reem", 1, -2, new TreeNode[] { treeNode5 });
+            TreeNode treeNode7 = new TreeNode("Girls", 1, -2, new TreeNode[] { treeNode4, treeNode6 });
             button1 = new Button();
             notifyIcon1 = new NotifyIcon(components);
             imageList1 = new ImageList(components);
@@ -91,15 +92,17 @@
             treeNode4.Name = "Nur";
             treeNode4.SelectedImageIndex = -2;
             treeNode4.Text = "Nur";
-            treeNode5.ImageIndex = 1;
-            treeNode5.Name = "Reem";
-            treeNode5.SelectedImageIndex = -2;
-            treeNode5.Text = "Reem";
+            treeNode5.Name = "Node0";
+            treeNode5.Text = "Node0";
             treeNode6.ImageIndex = 1;
-            treeNode6.Name = "Girls";
+            treeNode6.Name = "Reem";
             treeNode6.SelectedImageIndex = -2;
-            treeNode6.Text = "Girls";
-            treeView1.Nodes.AddRange(new TreeNode[] { treeNode3, treeNode6 });
+            treeNode6.Text = "Reem";
+            treeNode7.ImageIndex = 1;
+            treeNode7.Name = "Girls";
+            treeNode7.SelectedImageIndex = -2;
+            treeNode7.Text = "Girls";
+            treeView1.Nodes.AddRange(new TreeNode[] { treeNode3, treeNode7 });
             treeView1.SelectedImageIndex = 0;
             treeView1.Size = new Size(415, 320);
             treeView1.TabIndex = 1;
@@ -149,7 +152,7 @@
             // checkedListBox1
             // 
             checkedListBox1.FormattingEnabled = true;
-            checkedListBox1.Items.AddRange(new object[] { "moon", "sun ", "Earth", "marsa" });
+            checkedListBox1.Items.AddRange(new object[] { "moon", "sun ", "Earth", "marsa", "moon" });
             checkedListBox1.Location = new Point(98, 173);
             checkedListBox1.Name = "checkedListBox1";
             checkedListBox1.Size = new Size(120, 94);
