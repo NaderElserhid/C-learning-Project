@@ -152,7 +152,7 @@
             // checkedListBox1
             // 
             checkedListBox1.FormattingEnabled = true;
-            checkedListBox1.Items.AddRange(new object[] { "moon", "sun ", "Earth", "marsa", "moon" });
+            checkedListBox1.Items.AddRange(new object[] { "moon", "sun ", "Earth", "marsa", "plotp", "X" });
             checkedListBox1.Location = new Point(98, 173);
             checkedListBox1.Name = "checkedListBox1";
             checkedListBox1.Size = new Size(120, 94);
