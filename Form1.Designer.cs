@@ -47,6 +47,12 @@
             timer1 = new System.Windows.Forms.Timer(components);
             label1 = new Label();
             checkedListBox1 = new CheckedListBox();
+            textBox1 = new TextBox();
+            btnChangeFont = new Button();
+            fontDialog1 = new FontDialog();
+            saveFile = new Button();
+            saveFileDialog1 = new SaveFileDialog();
+            button2 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -153,16 +159,61 @@
             // 
             checkedListBox1.FormattingEnabled = true;
             checkedListBox1.Items.AddRange(new object[] { "moon", "sun ", "Earth", "marsa", "plotp", "X" });
-            checkedListBox1.Location = new Point(98, 173);
+            checkedListBox1.Location = new Point(28, 117);
             checkedListBox1.Name = "checkedListBox1";
-            checkedListBox1.Size = new Size(120, 94);
+            checkedListBox1.Size = new Size(221, 94);
             checkedListBox1.TabIndex = 5;
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(28, 231);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(190, 23);
+            textBox1.TabIndex = 6;
+            textBox1.TextChanged += textBox1_TextChanged;
+            // 
+            // btnChangeFont
+            // 
+            btnChangeFont.Location = new Point(28, 279);
+            btnChangeFont.Name = "btnChangeFont";
+            btnChangeFont.Size = new Size(190, 23);
+            btnChangeFont.TabIndex = 7;
+            btnChangeFont.Text = "change Tixe font and color";
+            btnChangeFont.UseVisualStyleBackColor = true;
+            btnChangeFont.Click += btnChangeFont_Click;
+            // 
+            // fontDialog1
+            // 
+            fontDialog1.Apply += fontDialog1_Apply;
+            // 
+            // saveFile
+            // 
+            saveFile.Location = new Point(28, 323);
+            saveFile.Name = "saveFile";
+            saveFile.Size = new Size(190, 23);
+            saveFile.TabIndex = 8;
+            saveFile.Text = "save file ";
+            saveFile.UseVisualStyleBackColor = true;
+            saveFile.Click += saveFile_Click;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(634, 431);
+            button2.Name = "button2";
+            button2.Size = new Size(75, 23);
+            button2.TabIndex = 9;
+            button2.Text = "button2";
+            button2.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(825, 488);
+            Controls.Add(button2);
+            Controls.Add(saveFile);
+            Controls.Add(btnChangeFont);
+            Controls.Add(textBox1);
             Controls.Add(checkedListBox1);
             Controls.Add(label1);
             Controls.Add(resetProgressBar);
@@ -188,5 +239,11 @@
         private System.Windows.Forms.Timer timer1;
         private Label label1;
         private CheckedListBox checkedListBox1;
+        private TextBox textBox1;
+        private Button btnChangeFont;
+        private FontDialog fontDialog1;
+        private Button saveFile;
+        private SaveFileDialog saveFileDialog1;
+        private Button button2;
     }
 }

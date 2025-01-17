@@ -14,3 +14,4 @@ C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyico
 C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\obj\Debug\net8.0-windows\Notifyicon.pdb
 C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\obj\Debug\net8.0-windows\Notifyicon.genruntimeconfig.cache
 C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\obj\Debug\net8.0-windows\ref\Notifyicon.dll
+C:\Users\nadir\OneDrive\Desktop\C#\.Net framword and C# implementtions\Notifyicon\obj\Debug\net8.0-windows\Notifyicon.sourcelink.json
